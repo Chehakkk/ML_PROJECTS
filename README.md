@@ -54,7 +54,7 @@
 - visualization_utils.py
 - model_utils.py
 
-Would you like me to convert this into badge-ready format for your README.md, or list Python versions and environment setup tools like venv or conda too? I’m happy to refine it further based on your deployment preferences 🔧.
+
 
 
 
