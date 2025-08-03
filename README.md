@@ -9,7 +9,7 @@
    git clone https://github.com/yourusername/ml_project_suite.git
    cd ml_project_suite
 - - Install dependencies
-pip install -r requirements.txt
+   pip install -r requirements.txt
 - Run Boosting module
 - python classification/boosting_classifier.py
 - - Models Used
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 - Custom depth and learning rate tuning for each model
 - Real Estate Regression- Multi-variable Linear Regression
 - Evaluation metrics: MAE, MSE, RMSE, R²
-Existing Modules🟣 Clustering – Wine Dataset- KMeans with Elbow Method & PCA
+- Existing Modules🟣 Clustering – Wine Dataset- KMeans with Elbow Method & PCA
 - 3D cluster visualization
 🟢 Titanic Classification- Logistic Regression vs SVC
 - Boxplots, Pairplots for EDA
